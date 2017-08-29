@@ -1,0 +1,11 @@
+# Prog_Fest_2014_Num_7_Sweeper
+Hidden Mine Cleaning Terminal CLI Game
+Authors:
+Edgar Tejada and Obed Lopez's Progfest 2014 #7 Solution
+Edgar Tejada: edgar_tejada0971@elcamino.edu
+Obed Lopez: g.obed.lopez@gmail.com
+Problem sets can be found @
+	http://progfest.calstatela.edu:8080/progfest/home.html
+All problem sets are property of CSULA and their prespective authors.
+All components of Prog_Fest_2014_Num_7_Sweeper_ are licensed under GPL2, unless otherwise noted; See license.txt;
+Purpose: This program implements a command line controlled game of hidden mine cleaning with the ability to load and save games played on an n by n board.
